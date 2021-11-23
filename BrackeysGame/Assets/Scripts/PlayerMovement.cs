@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody rb;
     public float moveSpeed = 2000f;
     public float sidewaysMovement = 500f;
+    
 
     // Start is called before the first frame update
     void Start()
